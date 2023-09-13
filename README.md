@@ -8,3 +8,6 @@ Logo assets:
 - [logo_square.svg](logo/logo_square.svg): Logo above made square by adding vertical padding.
 - [logo_twitter.svg](logo/logo_twitter.svg): Square logo, with some padding. Twitter crops the image to a circle.
 - [logo_twitter_dark_bg.svg](logo/logo_twitter.svg): Same as logo_twitter.svg, but with a dark background.
+
+Banner assets:
+- [banner_twitter.svg](banner/banner_twitter.svg): Twitter banner with a 3:1 aspect ratio.
