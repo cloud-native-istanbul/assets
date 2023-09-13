@@ -5,4 +5,5 @@ You will need the logo files in [Red_Hat_Display](vendor%2FRed_Hat_Display) inst
 
 Assets:
 - [logo.svg](logo.svg): The logo with the text "Istanbul" added. Not square.
+- [logo_square.svg](logo_square.svg): Logo above made square by adding vertical padding.
 - [logo_twitter.svg](logo_twitter.svg): Square logo, with some padding. Twitter crops the image to a circle.
