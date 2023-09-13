@@ -11,3 +11,10 @@ Logo assets:
 
 Banner assets:
 - [banner_twitter.svg](banner/banner_twitter.svg): Twitter banner with a 3:1 aspect ratio.
+- [banner_community_cncf_io.svg](banner/banner_community_cncf_io.svg): community.cncf.io banner with the default size defined by the platform.
+- [banner_youtube_2560x1440.png](banner/banner_youtube_2560x1440.png): Youtube banner with a 16:9 aspect ratio.
+- [banner_kommunity_white_bg.svg](banner/banner_kommunity_white_bg.svg): Kommunity.com banner with a 16:9 aspect ratio with a white background.
+- [banner_linkedin_white_bg.svg](banner/banner_linkedin_white_bg.svg): LinkedIn banner with a strange Linkedin aspect ratio with a white background.
+- [banner_meetup_white_bg.svg](banner/banner_meetup_white_bg.svg): Meetup.com banner with a 16:9 aspect ratio with a white background.
+- [banner_twitch_header_white_bg.svg](banner/banner_twitch_header_white_bg.svg): Twitch.tv banner with a 2.5:1 aspect ratio with a white background.
+- [banner_twitch_offline_screen_white_bg.svg](banner/banner_twitch_offline_screen_white_bg.svg): Twitch.tv offline screen with a 16:9 aspect ratio with a white background.
