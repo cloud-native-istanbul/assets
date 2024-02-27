@@ -1,3 +1,5 @@
+# CNCF Istanbul Chapter assets
+
 The font used in the customized part of the logo (the text "Istanbul") resembles the font used in the original logo.
 It is called "Red Hat Display" and is an open source font.
 To edit the logo, you can use the free tool [Inkscape](https://inkscape.org/).
@@ -20,3 +22,11 @@ Banner assets:
 - [banner_meetup_white_bg.svg](banner/banner_meetup_white_bg.svg): Meetup.com banner with a 16:9 aspect ratio with a white background.
 - [banner_twitch_header_white_bg.svg](banner/banner_twitch_header_white_bg.svg): Twitch.tv banner with a 2.5:1 aspect ratio with a white background.
 - [banner_twitch_offline_screen_white_bg.svg](banner/banner_twitch_offline_screen_white_bg.svg): Twitch.tv offline screen with a 16:9 aspect ratio with a white background.
+
+# KCD Istanbul assets
+
+You will need the [Thicccboi](https://github.com/wonderunit/font-thicccboi) installed on your machine to edit the logo.
+
+Logo assets:
+- [kcd/logo-horizontal.svg]: The horizontal logo.
+- [kcd/logo-stacked.svg]: The stacked logo.
